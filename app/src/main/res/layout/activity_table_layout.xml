@@ -31,7 +31,7 @@
                 android:layout_column="1"
                 android:padding="3dip"
                 android:text="Save"
-                android:textColor="@color/black"/>/>
+                android:textColor="@color/black"/>
             <TextView
                 android:gravity="right"
                 android:padding="3dip"
@@ -45,7 +45,7 @@
                 android:layout_column="1"
                 android:padding="3dip"
                 android:text="New"
-                android:textColor="@color/black"/>/>
+                android:textColor="@color/black"/>
             <TextView
                 android:gravity="right"
                 android:padding="3dip"
@@ -59,7 +59,7 @@
                 android:layout_column="1"
                 android:padding="3dip"
                 android:text="Quit"
-                android:textColor="@color/black"/>/>
+                android:textColor="@color/black"/>
             <TextView
                 android:gravity="right"
                 android:padding="3dip"

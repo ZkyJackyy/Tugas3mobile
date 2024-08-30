@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Praktek1mobile"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".ConstrainLayout"
             android:exported="false" />
         <activity
@@ -25,7 +28,7 @@
             android:name=".RelativeLayout"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".kalkulator_Sederhana"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
